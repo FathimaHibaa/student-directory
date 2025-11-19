@@ -1,5 +1,3 @@
-// src/data/students.js
-
 export const activeStudents = [
   {
     id: "act1",

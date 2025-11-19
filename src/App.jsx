@@ -3,7 +3,6 @@ import "./App.css";
 import StudentCard from "./components/StudentCard";
 import { activeStudents, alumniStudents } from "./data/students";
 
-// calculate most common skill
 function calculateMostCommonSkill(allStudents) {
   const freq = {};
   allStudents.forEach((s) =>
